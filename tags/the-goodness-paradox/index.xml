@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Goodness Paradox on filippo.im</title>
+    <link>http://examplesite.com/tags/the-goodness-paradox/</link>
+    <description>Recent content in The Goodness Paradox on filippo.im</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://examplesite.com/tags/the-goodness-paradox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The evolution of Right and Wrong</title>
+      <link>http://examplesite.com/blog/post-8/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-8/</guid>
+      <description>Are people born good and then corrupted by society or born bad and then made good by society?</description>
+    </item>
+    
+  </channel>
+</rss>
